@@ -1,18 +1,23 @@
 Задание 1
 
 JSONNET
+
 ![jsonnet](jsonnet.png)
 
 Markdown
+
 ![Markdown](Markdown.png)
 
 Bash
+
 ![Bsh](Bash.png)
 
 Terraform
+
 ![Terraform](Terraform.png)
 
 Yaml
+
 ![Yaml](Yaml.png)
 
 
